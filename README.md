@@ -1,2 +1,2 @@
-# strong
-A native Lisp dialect which aims to be fast and easily interface with C.
+# Strong
+A native Lisp-like programming language which aims to be fast and easily interface with C.
